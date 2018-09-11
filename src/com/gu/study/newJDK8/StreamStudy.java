@@ -18,7 +18,6 @@ public class StreamStudy {
 		list.add("bbb");
 		list.add("aaa");
 		System.out.println(sortJdk8(list));
-		
 	}
 
 	
